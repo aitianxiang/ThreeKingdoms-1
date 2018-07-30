@@ -13,7 +13,7 @@ Suppose that total support of wei is A, shu is B, wu is C. There are two ways fo
 If u are in the winning kingdom, u will get profit according to the proportion.
 
 ## How to play this game
-###Get a new address
+Get a new address
 input getnewaddress at the console
 ![image](1.jpeg)
 
